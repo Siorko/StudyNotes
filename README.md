@@ -3,7 +3,7 @@
 >先慢慢写 不着急。我的个人笔记
 
 ## 基础
-
+- [java基础知识汇总](Java/JavaNote.md)
 - [server.properties配置文件译文](Basics/ServerPropertiesNote.md)
 - [换种思路写Mock，让单元测试更简单](Java/testable-mock.md)
 - [一文读懂Java中的动态代理](Java/dynamic-proxy-in-java.md)
