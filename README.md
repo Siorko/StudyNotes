@@ -3,7 +3,7 @@
 >先慢慢写 不着急。我的个人笔记
 
 ## git所遇到的问题
-- [java基础知识汇总](Issue/Jgit_issue.md)
+- [java基础知识汇总](Issue/git_issue.md)
 
 ## 基础
 - [java基础知识汇总](Java/JavaNote.md)
