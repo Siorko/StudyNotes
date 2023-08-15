@@ -12,7 +12,7 @@
   - [面试题](README?id=面试题)
   - [LeetCode](README?id=LeetCode)
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](about/)
-- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/bibnico/MinecraftNt)
+- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/siorko)
 
 
 

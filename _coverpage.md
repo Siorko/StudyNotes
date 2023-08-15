@@ -1,14 +1,14 @@
 
 ![icon](logo-minecraft.png)
-## Minecraft插件资料库
+## StudyNotes
 
 
-- Minecraft是真好玩-bibnico
+- Welcome My StudyNotes
 
 
 
 
-[GitHub](https://github.com/bibnico/MinecraftNt)
+[GitHub](https://github.com/siorko)
 [开始阅读](about/README.md)
 
 
